@@ -1,0 +1,7 @@
+jupyter
+scikit-learn
+matplotlib
+seaborn
+pandas
+numpy
+virtualenv
